@@ -1,0 +1,18 @@
+<!--Teste função fetch-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Js with fetch--</title>
+  </head>
+  <body>
+    <h3>Test 2 - Stars Wars</h3>
+    <div id="resp"></div>
+    document.addEventListener("DomContentLoaded", (event) =>{ let value =
+    fetch('https//swapi.dev/api/people/',{ method: 'GET' } }
+    document.getElementByID("resp").innerHTML = "Lista de personagens"
+    value.then((response)) => {return response.json()})
+  </body>
+</html>

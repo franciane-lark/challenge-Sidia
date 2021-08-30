@@ -28,7 +28,7 @@
 <h2> - Github: Comandos Git </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-0.jpeg"/>
+  <img src="Img/Image-02.png"/>
 </div>
 
 

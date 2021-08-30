@@ -1,0 +1,44 @@
+<!--Function Fetch
+
+A interface da API Fetch permite que o navegador da web faça solicitações HTTP para servidores da web.
+😀 Não há mais necessidade de XMLHttpRequest.
+
+Link: https://www.w3schools.com/js/js_api_fetch.asp
+
+*Function of Call Back
+-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Js with fetch--</title>
+  </head>
+  <body>
+    <h3>Stars Wars Fetch</h3>
+    <div id="resp"></div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", (event) => {
+          let value = fetch('https://swapi.dev/api/people/', {
+          method : 'GET'
+        })
+        document.getElementByID("resp").innerHTML = "Lista de personagens"
+        value
+        .then((response) => { return response.json() })
+        .then((result)) => {
+         let resp = ''
+         if(result.hashOwnProperty("results")){
+            result.results.array.forEach(value => {
+              resp += value.name + "-" + value.height
+              resp += "<br>"
+              })
+            }
+          )}
+          document.getElementById("resp").innerHTML = resp
+        })
+      }
+    </script>
+  </body>
+</html>

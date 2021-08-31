@@ -50,7 +50,7 @@
 
 <!-- --------Animas------------------------------------------------------------------------------------------------------------------------ -->
 
-<h2> - React: Instalação feita durante a Palestra Samsung Ocean. </h2>
+<h2> - React: Instalação feita durante da Palestra Samsung Ocean. </h2>
 
 <div style="display: inline_block"><br>
   <img src="Img/Image-04.gif"/>

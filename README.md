@@ -94,8 +94,8 @@
 
 <h3>Material de Apoio:</h3>
 
-- Comunidade Codivas.
-- StackOverflow:
+- Folder da Comunidade Codivas: Recebido do Servidor Discord.
+- StackOverflow: https://pt.stackoverflow.com/questions/437043/como-criar-uma-pasta-dentro-do-meu-reposit%C3%B3rio-no-github
 
 <br>
 <br>

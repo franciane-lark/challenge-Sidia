@@ -238,6 +238,26 @@
 
 <h2> -  Links de Referências utilizados: </h2>
 
+- https://www.w3schools.com/js/js_api_fetch.asp
+
+- https://v3.vuejs.org/guide/installation.html#release-notes
+
+- https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
+
+- http://www.omdbapi.com/
+
+- http://www.omdbapi.com/apikey.aspx
+
+- https://photogramio.com/pt/gif-maker
+
+- https://br.vuejs.org/v2/guide/installation.html
+
+- https://app.bitly.com
+
+- https://imasters.com.br/desenvolvimento/criando-uma-aplicacao-simples-no-padrao-restapi-com-javascript-es6-e-stronglooploopback
+
+- https://github.com/reprograma/T9-React-Extra/blob/master/src/api/service.js
+
 - https://www.youtube.com/watch?v=tBweoUiMsDg&ab_channel=BoniekyLacerda
 
 - https://www.youtube.com/watch?v=HJ16WEmOWTw&ab_channel=ProgramadorAlternativo

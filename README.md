@@ -237,7 +237,7 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2> -  Interface gráfica para o usuário interagir com ela: </h2>
+<h2> 1.  Interface gráfica para o usuário interagir com ela: </h2>
 
 <div style="display: inline_block"><br>
   <img heght="180em" src="Img/ ##### .png"/>
@@ -251,7 +251,7 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2> -  Digitar os parâmetros desejados, fazer a chamada da API </h2>
+<h2> 2.  Digitar os parâmetros desejados, fazer a chamada da API </h2>
 
 <div style="display: inline_block"><br>
   <img heght="180em" src="Img/ ##### .png"/>
@@ -265,7 +265,35 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2> -  Digitar os parâmetros desejados, fazer a chamada da API </h2>
+<h2> 3.  Digitar os parâmetros desejados, fazer a chamada da API </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/ ##### .png"/>
+</div>
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui 
+
+<br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> 4. Trazer os dados relevantes </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/ ##### .png"/>
+</div>
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui 
+
+<br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> 5. Apresentá-los para o usuário. </h2>
 
 <div style="display: inline_block"><br>
   <img heght="180em" src="Img/ ##### .png"/>

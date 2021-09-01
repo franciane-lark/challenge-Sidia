@@ -237,6 +237,48 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
+<h2> -  Interface gráfica para o usuário interagir com ela: </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/ ##### .png"/>
+</div>
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui 
+
+<br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> -  Digitar os parâmetros desejados, fazer a chamada da API </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/ ##### .png"/>
+</div>
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui 
+
+<br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> -  Digitar os parâmetros desejados, fazer a chamada da API </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/ ##### .png"/>
+</div>
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui 
+
+<br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+
 <h2> -  Links de Referências utilizados: </h2>
 
 - https://www.w3schools.com/js/js_api_fetch.asp

@@ -2,9 +2,10 @@
 
 ## Nome: Franciane Lark
 
-## Data: 30-08-2021
+## Data: 07-08-2021
 
 <br>
+
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2> - Licenciamento do projeto MIT. </h2>
@@ -27,19 +28,6 @@
    
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2> - Github: Comandos Git. </h2>
-
-<div style="display: inline_block"><br>
-  <img heght="180em" src="Img/Image-02.png"/>
-</div>
-
-- https://voceprogramadorformacaoprofiss.club.hotmart.com/lesson/K4kqJ6jy7Y/criando-um-servidor-local-para-o-git
-
-<br>
-
-
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
-
 <h2> -  Folder: Comandos Git para o Github. </h2>
 
 <div style="display: inline_block"><br>
@@ -52,6 +40,17 @@
 - StackOverflow: https://pt.stackoverflow.com/questions/437043/como-criar-uma-pasta-dentro-do-meu-reposit%C3%B3rio-no-github
 
 <br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> - Github: Comandos Git. </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/Image-02.png"/>
+</div>
+
+- https://voceprogramadorformacaoprofiss.club.hotmart.com/lesson/K4kqJ6jy7Y/criando-um-servidor-local-para-o-git
+
 <br>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
@@ -63,9 +62,10 @@
 </div>
 
 - https://www.w3schools.com/react/default.asp
-  <br>
+ 
+<br>
 
-<!-- --------Animas------------------------------------------------------------------------------------------------------------------------ -->
+<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2> - React: Instalação feita durante da Palestra Samsung Ocean. </h2>
 

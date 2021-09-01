@@ -37,6 +37,23 @@
 
 <br>
 
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> -  Folder: Comandos Git para o Github. </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/Image-07.jpeg"/>
+</div>
+
+<h3>Material de Apoio:</h3>
+
+- Folder da Comunidade Codivas: Recebido do Servidor Discord.
+- StackOverflow: https://pt.stackoverflow.com/questions/437043/como-criar-uma-pasta-dentro-do-meu-reposit%C3%B3rio-no-github
+
+<br>
+<br>
+
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2> - React: Instalação. </h2>
@@ -82,22 +99,6 @@
 
 - http://www.omdbapi.com/apikey.aspx?VERIFYKEY=2e33a8e1-542d-4166-849b-64bc5079cebd
 
-<br>
-
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
-
-<h2> -  Folder: Comandos Git para o Github. </h2>
-
-<div style="display: inline_block"><br>
-  <img heght="180em" src="Img/Image-07.jpeg"/>
-</div>
-
-<h3>Material de Apoio:</h3>
-
-- Folder da Comunidade Codivas: Recebido do Servidor Discord.
-- StackOverflow: https://pt.stackoverflow.com/questions/437043/como-criar-uma-pasta-dentro-do-meu-reposit%C3%B3rio-no-github
-
-<br>
 <br>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->

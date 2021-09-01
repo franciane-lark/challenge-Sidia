@@ -12,7 +12,7 @@
 - MIT License ( mit-license.org )
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-01.jpeg"/>
+  <img heght="180em" src="Img/Image-01.jpeg"/>
 </div>
 
 <br>
@@ -30,7 +30,7 @@
 <h2> - Github: Comandos Git. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-02.png"/>
+  <img heght="180em" src="Img/Image-02.png"/>
 </div>
 
 - https://voceprogramadorformacaoprofiss.club.hotmart.com/lesson/K4kqJ6jy7Y/criando-um-servidor-local-para-o-git
@@ -42,7 +42,7 @@
 <h2> - React: Instalação. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-03.png"/>
+  <img heght="180em" src="Img/Image-03.png"/>
 </div>
 
 - https://www.w3schools.com/react/default.asp
@@ -53,7 +53,7 @@
 <h2> - React: Instalação feita durante da Palestra Samsung Ocean. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-04.gif"/>
+  <img heght="180em" src="Img/Image-04.gif"/>
 </div>
 
 - Getting Started – React (reactjs.org).
@@ -65,7 +65,7 @@
 <h2> - Site do OMDb API: Guardiões das Galaxias.  </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-05.png"/>
+  <img heght="180em" src="Img/Image-05.png"/>
 </div>
 
 - http://www.omdbapi.com/?i=tt3896198&apikey=4ab221b7
@@ -77,7 +77,7 @@
 <h2> - Chave da API: Guardiões das Galaxias. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-06.jpeg"/>
+  <img heght="180em" src="Img/Image-06.jpeg"/>
 </div>
 
 - http://www.omdbapi.com/apikey.aspx?VERIFYKEY=2e33a8e1-542d-4166-849b-64bc5079cebd
@@ -89,7 +89,7 @@
 <h2> -  Folder: Comandos Git para o Github. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-07.jpeg"/>
+  <img heght="180em" src="Img/Image-07.jpeg"/>
 </div>
 
 <h3>Material de Apoio:</h3>
@@ -105,10 +105,10 @@
 <h2> -  Xampp: Servidor Local. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-08.png"/>
+  <img heght="180em" src="Img/Image-08.png"/>
 </div>
 
-- Configuração de Servidor: Notebook Samsung Book X30. 
+- Configuração de Servidor: Notebook Samsung Book X30.
 
 <br>
 
@@ -139,7 +139,7 @@
 <h2> -  Metologias Ágeis: Utilização do Scrum. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-09.png"/>
+  <img heght="180em" src="Img/Image-09.png"/>
 </div>
 
 <br>
@@ -149,7 +149,7 @@
 <h2> -  Teste da API: Arquitetura Rest. Parte - 1. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-10.png"/>
+  <img heght="180em" src="Img/Image-10.png"/>
 </div>
 
 <br>
@@ -159,7 +159,7 @@
 <h2> -  Teste da API: Arquitetura Rest. Parte - 2. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-11.png"/>
+  <img heght="180em" src="Img/Image-11.png"/>
 </div>
 
 <br>
@@ -169,7 +169,7 @@
 <h2> -  Teste da API: Arquitetura Rest. Parte - 3. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-12.png"/>
+  <img heght="180em" src="Img/Image-12.png"/>
 </div>
 
 <br>
@@ -179,7 +179,7 @@
 <h2> -  Descompactando a Chave: Via protocolos HTTPs. Parte 1. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-13.png"/>
+  <img heght="180em" src="Img/Image-13.png"/>
 </div>
 
 - http://jsonviewer.stack.hu/
@@ -191,7 +191,7 @@
 <h2> -  Descompactando a Chave: Via protocolos HTTPs. Parte 2. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-14.png"/>
+  <img heght="180em" src="Img/Image-14.png"/>
 </div>
 
 - http://jsonviewer.stack.hu/
@@ -203,7 +203,7 @@
 <h2> -  Descompactando a Chave: Via protocolos HTTPs. Parte 3. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-15.png"/>
+  <img heght="180em" src="Img/Image-15.png"/>
 </div>
 
 - http://jsonviewer.stack.hu/
@@ -215,7 +215,7 @@
 <h2> -  Descompactando a Chave: Via protocolos HTTPs. Parte 4. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-16.png"/>
+  <img heght="180em" src="Img/Image-16.png"/>
 </div>
 
 - http://jsonviewer.stack.hu/
@@ -227,7 +227,7 @@
 <h2> -  Descompactando a Chave: Via protocolos HTTPs. Parte 5. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-17.png"/>
+  <img heght="180em" src="Img/Image-17.png"/>
 </div>
 
 - http://jsonviewer.stack.hu/

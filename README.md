@@ -87,6 +87,16 @@
 
 - http://www.omdbapi.com/?i=tt3896198&apikey=4ab221b7
 
+- API Key
+
+Here is your key: 4ab221b7
+
+Please append it to all of your API requests,
+
+OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=4ab221b7
+
+Click the following URL to activate your key: http://www.omdbapi.com/apikey.aspx?VERIFYKEY=2e33a8e1-542d-4166-849b-64bc5079cebd
+If you did not make this request, please disregard this email.
 <br>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->

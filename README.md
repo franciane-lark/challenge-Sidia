@@ -247,10 +247,22 @@ If you did not make this request, please disregard this email.
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2> -  Metodologias Ágil: Scrum </h2>
+<h2> -  Metologias Ágeis: Utilização do Scrum. </h2>
 
 <div style="display: inline_block"><br>
   <img heght="180em" src="Img/Image-18.png"/>
+</div>
+
+- http://jsonviewer.stack.hu/
+
+<br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> -  Descompactando a Chave: Via protocolos HTTPs. Parte 6. </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/Image-19.png"/>
 </div>
 
 - http://jsonviewer.stack.hu/

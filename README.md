@@ -247,6 +247,18 @@ If you did not make this request, please disregard this email.
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
+<h2> -  : . Parte 6. </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/Image-18.png"/>
+</div>
+
+- http://jsonviewer.stack.hu/
+
+<br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
 <h2> 1.  Interface gráfica para o usuário interagir com ela: </h2>
 
 <div style="display: inline_block"><br>

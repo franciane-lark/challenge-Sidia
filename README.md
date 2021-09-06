@@ -247,7 +247,7 @@ If you did not make this request, please disregard this email.
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2> -  : . Parte 6. </h2>
+<h2> -  Metodologias Ágil: Scrum </h2>
 
 <div style="display: inline_block"><br>
   <img heght="180em" src="Img/Image-18.png"/>

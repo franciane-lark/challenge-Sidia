@@ -437,4 +437,9 @@ If you did not make this request, please disregard this email.
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-Em contrução... 
+Projeto Consumo de API.
+Feito com Amor por Franciane Lark.
+Direito de Imagens Netflix & OMDb API.
+Dados Pegos pelo site http://www.omdbapi.com/
+
+Em contrução...

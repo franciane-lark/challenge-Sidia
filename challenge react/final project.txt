@@ -1,0 +1,40 @@
+Programming Challenge
+Congratulations on being selected to participate in our technical test. It consists of a programming challenge and it will address different skills. Read the instructions carefully and we wish you the best of luck.
+
+Before You Start
+Fork this repository and once you have finished your challenge, grant access to the Github user "kavlac". Upload all your deliverables to your forked repository. We will use it to evaluate your test.
+
+Introduction
+We want you to develop a project that makes uses of the OMDB API. It consists of two goals and the details on each one of them is given below.
+
+Preparing the API
+The first goal of this challenge is to obtain and prepare the API you will work with.
+
+In order to do so, you must set up an API key. You can find the details about how to do so in the API instructions.
+
+Consuming the Data
+The second goal of this challenge is to consume the OMDB API.
+
+Thus, you are asked to implement a Web client application (in any framework that you are familiar with) that accesses such API. It must have a graphical interface to interact with users to consume the method below:
+
+List movies by title: given a title, we want to know what movies match the given title, and their relevant data (title, plot, ratings, etc.);
+Show the details of a selected movie, including the various rating the API returns for different rating systems.
+It is up to you how to design the user interface, as long as it is usable.
+
+Deliverables
+You must provide the following artifacts:
+
+The source-code of the programs that you implemented;
+A set of instructions on how to prepare the environment, build the programs, run your application, and how to use your project;
+Comments on what technologies and patterns you used and the reasons to do so, as well as the decisions you made throughout the challenge;
+Any other artifact you find relevant for your overall evaluation.
+Tips
+Make sure your instructions are easy to follow and that each step works as expected;
+
+Testing is more than welcome;
+
+Show us everything you know about best practices in Git;
+
+Think carefully about your code quality, in terms of maintainability, readability, and simplicity;
+
+Do not overengineer your solution.

@@ -2,22 +2,23 @@
 
 ## Nome: Franciane Lark
 
-## Data: 30-08-2021
+## Data: 07-08-2021
 
 <br>
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2> - Licenciamento do projeto MIT. </h2>
 
 - MIT License ( mit-license.org )
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-01.jpeg"/>
+  <img heght="180em" src="Img/Image-01.jpeg"/>
 </div>
 
 <br>
 
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2> - Instruções: Resolução do Problema. </h2>
 
@@ -25,71 +26,12 @@
 
 <br>
    
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
-
-<h2> - Github: Comandos Git. </h2>
-
-<div style="display: inline_block"><br>
-  <img src="Img/Image-02.png"/>
-</div>
-
-- https://voceprogramadorformacaoprofiss.club.hotmart.com/lesson/K4kqJ6jy7Y/criando-um-servidor-local-para-o-git
-
-<br>
-
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
-
-<h2> - React: Instalação. </h2>
-
-<div style="display: inline_block"><br>
-  <img src="Img/Image-03.png"/>
-</div>
-
-- https://www.w3schools.com/react/default.asp
-  <br>
-
-<!-- --------Animas------------------------------------------------------------------------------------------------------------------------ -->
-
-<h2> - React: Instalação feita durante da Palestra Samsung Ocean. </h2>
-
-<div style="display: inline_block"><br>
-  <img src="Img/Image-04.gif"/>
-</div>
-
-- Getting Started – React (reactjs.org).
-
-<br>
-
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
-
-<h2> - Site do OMDb API: Guardiões das Galaxias.  </h2>
-
-<div style="display: inline_block"><br>
-  <img src="Img/Image-05.png"/>
-</div>
-
-- http://www.omdbapi.com/?i=tt3896198&apikey=4ab221b7
-
-<br>
-
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
-
-<h2> - Chave da API: Guardiões das Galaxias. </h2>
-
-<div style="display: inline_block"><br>
-  <img src="Img/Image-06.jpeg"/>
-</div>
-
-- http://www.omdbapi.com/apikey.aspx?VERIFYKEY=2e33a8e1-542d-4166-849b-64bc5079cebd
-
-<br>
-
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2> -  Folder: Comandos Git para o Github. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-07.jpeg"/>
+  <img heght="180em" src="Img/Image-07.jpeg"/>
 </div>
 
 <h3>Material de Apoio:</h3>
@@ -98,21 +40,90 @@
 - StackOverflow: https://pt.stackoverflow.com/questions/437043/como-criar-uma-pasta-dentro-do-meu-reposit%C3%B3rio-no-github
 
 <br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> - Github: Comandos Git. </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/Image-02.png"/>
+</div>
+
+- https://voceprogramadorformacaoprofiss.club.hotmart.com/lesson/K4kqJ6jy7Y/criando-um-servidor-local-para-o-git
+
 <br>
 
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> - React: Instalação. </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/Image-03.png"/>
+</div>
+
+- https://www.w3schools.com/react/default.asp
+ 
+<br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> - React: Instalação feita durante da Palestra Samsung Ocean. </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/Image-04.gif"/>
+</div>
+
+- Getting Started – React (reactjs.org).
+
+<br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> - Site do OMDb API: Guardiões das Galaxias.  </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/Image-05.png"/>
+</div>
+
+- http://www.omdbapi.com/?i=tt3896198&apikey=4ab221b7
+
+- API Key
+
+Here is your key: 4ab221b7
+
+Please append it to all of your API requests,
+
+OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=4ab221b7
+
+Click the following URL to activate your key: http://www.omdbapi.com/apikey.aspx?VERIFYKEY=2e33a8e1-542d-4166-849b-64bc5079cebd
+If you did not make this request, please disregard this email.
+<br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> - Chave da API: Guardiões das Galaxias. </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/Image-06.jpeg"/>
+</div>
+
+- http://www.omdbapi.com/apikey.aspx?VERIFYKEY=2e33a8e1-542d-4166-849b-64bc5079cebd
+
+<br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2> -  Xampp: Servidor Local. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-08.png"/>
+  <img heght="180em" src="Img/Image-08.png"/>
 </div>
 
-- Configuração de Servidor: Notebook Samsung Book X30. 
+- Configuração de Servidor: Notebook Samsung Book X30.
 
 <br>
 
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2> -  Artigo: Semântica dos Commits. </h2>
 
@@ -134,107 +145,217 @@
 
 <br>
 
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2> -  Metologias Ágeis: Utilização do Scrum. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-09.png"/>
+  <img heght="180em" src="Img/Image-09.png"/>
 </div>
 
 <br>
 
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2> -  Teste da API: Arquitetura Rest. Parte - 1. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-10.png"/>
+  <img heght="180em" src="Img/Image-10.png"/>
 </div>
 
 <br>
 
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2> -  Teste da API: Arquitetura Rest. Parte - 2. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-11.png"/>
+  <img heght="180em" src="Img/Image-11.png"/>
 </div>
 
 <br>
 
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2> -  Teste da API: Arquitetura Rest. Parte - 3. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-12.png"/>
+  <img heght="180em" src="Img/Image-12.png"/>
 </div>
 
 <br>
 
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2> -  Descompactando a Chave: Via protocolos HTTPs. Parte 1. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-13.png"/>
+  <img heght="180em" src="Img/Image-13.png"/>
 </div>
 
 - http://jsonviewer.stack.hu/
 
 <br>
 
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2> -  Descompactando a Chave: Via protocolos HTTPs. Parte 2. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-14.png"/>
+  <img heght="180em" src="Img/Image-14.png"/>
 </div>
 
 - http://jsonviewer.stack.hu/
 
 <br>
 
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2> -  Descompactando a Chave: Via protocolos HTTPs. Parte 3. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-15.png"/>
+  <img heght="180em" src="Img/Image-15.png"/>
 </div>
 
 - http://jsonviewer.stack.hu/
 
 <br>
 
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2> -  Descompactando a Chave: Via protocolos HTTPs. Parte 4. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-16.png"/>
+  <img heght="180em" src="Img/Image-16.png"/>
 </div>
 
 - http://jsonviewer.stack.hu/
 
 <br>
 
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2> -  Descompactando a Chave: Via protocolos HTTPs. Parte 5. </h2>
 
 <div style="display: inline_block"><br>
-  <img src="Img/Image-17.png"/>
+  <img heght="180em" src="Img/Image-17.png"/>
 </div>
 
 - http://jsonviewer.stack.hu/
 
 <br>
 
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> -  Metologias Ágeis: Utilização do Scrum. </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/Image-18.png"/>
+</div>
+
+- http://jsonviewer.stack.hu/
+
+<br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> - Pegando os dados do filme. </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/Image-19.png"/>
+</div>
+
+- http://jsonviewer.stack.hu/
+
+<br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> 1.  Interface gráfica para o usuário interagir com ela: </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/ ##### .png"/>
+</div>
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui 
+
+<br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> 2.  Digitar os parâmetros desejados, fazer a chamada da API </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/ ##### .png"/>
+</div>
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui 
+
+<br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> 3.  Digitar os parâmetros desejados, fazer a chamada da API </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/ ##### .png"/>
+</div>
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui 
+
+<br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> 4. Trazer os dados relevantes </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/ ##### .png"/>
+</div>
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui 
+
+<br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> 5. Apresentá-los para o usuário. </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/ ##### .png"/>
+</div>
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui 
+
+<br>
+
+
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2> Conclusão </h2>
+
+<div style="display: inline_block"><br>
+  <img heght="180em" src="Img/ ##### .png"/>
+</div>
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui
+
+- Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui Descrever aqui 
+
+<br>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2> -  Links de Referências utilizados: </h2>
 
@@ -314,4 +435,11 @@
 
 <br>
 
-<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+Projeto Consumo de API.
+Feito com Amor por Franciane Lark.
+Direito de Imagens Netflix & OMDb API.
+Dados Pegos pelo site http://www.omdbapi.com/
+
+Em contrução...

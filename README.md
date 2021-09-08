@@ -262,7 +262,7 @@ If you did not make this request, please disregard this email.
 <h2> - Pegando os dados do filme. </h2>
 
 <div style="display: inline_block"><br>
-  <img heght="180em" src="Img/Image-19.png"/>
+  <img heght="180em" src="Img/Image-19.jpeg"/>
 </div>
 
 - http://jsonviewer.stack.hu/

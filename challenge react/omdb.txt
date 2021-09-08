@@ -1,0 +1,13 @@
+Envie todas as solicitações de dados para:
+
+http://www.omdbapi.com/?apikey=[yourkey]&
+
+Solicitações de API de pôster:
+
+http://img.omdbapi.com/?apikey=[yourkey]&
+
+Here is your key: 4ab221b7
+
+Please append it to all of your API requests,
+
+OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=4ab221b7
